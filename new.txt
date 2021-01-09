@@ -1,0 +1,6 @@
+Names Height Weight
+Albert 6.3 80
+Bobby 4.7 40
+Gazala 5.2 53
+Manan 5.8 68
+Pooh 6 77
